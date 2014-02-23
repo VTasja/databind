@@ -4,8 +4,8 @@
   "main": "./src/DataBind.js",
   "description": "Two way data binding, dependant on nothing",
   "keywords": ["binding", "two", "way", "data"],
-  "dependencies": {
-  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
   "devDependencies": {
     "browserify": "2.22.0",
     "uglify-js": "2.3.6"
